@@ -32,7 +32,8 @@ Launching Chronicle:
 </p>
 
 <p align="center">
-  I identified that this domain does contain 1 malicious attribute.
+  
+  From the dashboard, there is a `VT` label that means the total virus this domain has. **VT** stands for (Virus Total) and is a third-party company that verifies if a domain, file, or URL has any malicious virus inside. As you can see here there is 1 malicious virus in this domain.
 <br/>
   
   ![image](https://github.com/darias08/SIEM-Tool-Chronicle-Project/assets/58616895/852f6f0c-e5aa-44e3-936b-07d28a56da5c)
@@ -96,7 +97,7 @@ Launching Chronicle:
 
 <p align="center">
   
-  First I checked the `40.100.174.34` and see what kind of details I can find there. It looks like this incident happened on January 31st, 2023 and the same users were involved in this attack (Emil Palmer and Ashton Davidson).
+  First I checked the `40.100.174.34` and see what kind of details I can find there. It looks like this incident happened on January 31st, 2023 when this IP address was used and the same users were involved in this attack (Emil Palmer and Ashton Davidson).
 
   ![image](https://github.com/darias08/SIEM-Tool-Chronicle-Project/assets/58616895/1113ef4c-d7a1-4635-9aba-ee7b8aaa5dc1)
 
