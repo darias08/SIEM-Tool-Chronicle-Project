@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-In this project, I will be using a cyber security SIEM tool called [Chronicle](https://cloud.google.com/chronicle/docs/overview), a cloud-native tool, to investigate a security incident that involved a phishing attack. The goal of this project is to showcase my knowledge of using this tool and how effective it is for me to identify threats.
+In this project, I will be using a cyber security SIEM tool called [Chronicle](https://cloud.google.com/chronicle/docs/overview), a cloud-native tool, to investigate a security incident that involved a phishing attack. The goal of this project is to showcase my knowledge of using this tool and how effective it is for me to identify threats. At the bottom of this page, I created a detailed incident report in regard to this security incident.
 
 
 <h2>Scenario</h2>
